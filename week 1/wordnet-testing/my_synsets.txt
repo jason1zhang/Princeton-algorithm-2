@@ -1,0 +1,2 @@
+0,zero,the sight setting that will cause a projectile to hit the center of the target with no wind blowing  
+1,zero 0 nought cipher cypher,a mathematical element that when added to another number yields the same number  
